@@ -13,6 +13,14 @@ Here are the steps we will take:
 - Go to github create a pull request
 - Merge the PR 
 
+## Prerequisites
+In order to go through this tutorial, you will need to have the following installed:
+
+- Git
+- Python
+- Docker
+- CircleCI CLI
+
 ## Differences
 Expressing my authorial rights, some things are a bit different from the tutorial:
 
