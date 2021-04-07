@@ -1,3 +1,17 @@
+## CI/CD with circleci
+
+Here are the steps we will take:
+
+- Create a Django app
+- Create tests for the app
+- Dockerize the app
+- Configure CircleCI
+- Run locally
+- Push to GitHub
+- Go to Circleci and set project
+- Select your .circleci/config.yml file
+- Go to github create a pull request
+- Merge the PR 
 
 ## Differences
 Expressing my authorial rights, some things are a bit different from the tutorial:
